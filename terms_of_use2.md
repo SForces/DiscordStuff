@@ -44,6 +44,6 @@
     Bu şartlar zaman zaman güncellenebilir ve botu kullanmaya devam etmeniz, güncellenen şartları kabul ettiğiniz anlamına gelir.  
 
 15. **Geçerli Hukuk**  
-    Bu Hizmet Şartları, [Yargı Yetkisi Giriniz] yasalarına tabidir.  
+    Bu Hizmet Şartları, [https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf] yasalarına tabidir.  
 
 ---
