@@ -1,2 +1,0 @@
-# DiscordStuff
-licenses
