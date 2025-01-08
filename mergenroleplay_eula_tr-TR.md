@@ -1,9 +1,9 @@
 
 
-## **KAIZEN ROLEPLAY BOTU SON KULLANICI LİSANS SÖZLEŞMESİ (EULA)**  
+## **MERGEN ROLEPLAY BOTU SON KULLANICI LİSANS SÖZLEŞMESİ (EULA)**  
 **Yürürlük Tarihi: 4 Ocak 2025**  
 
-Bu Son Kullanıcı Lisans Sözleşmesi ("Sözleşme"), Kaizen Roleplay ve Kaizen Tickets botunun ("Bot") kullanımı için geçerli şartları ve koşulları tanımlar. Botun sahibi ve geliştiricisi **fforcess (Mert)** olup, işbu Sözleşme Bot ve ilgili sistemlerin kullanımını düzenler. Botu kullanarak, aşağıda belirtilen tüm şartları eksiksiz bir şekilde kabul etmiş sayılırsınız. Bu şartları kabul etmiyorsanız Botu kullanmamalısınız.
+Bu Son Kullanıcı Lisans Sözleşmesi ("Sözleşme"), Mergen Roleplay ve Mergen Tickets botunun ("Bot") kullanımı için geçerli şartları ve koşulları tanımlar. Botun sahibi ve geliştiricisi **fforcess (Mert)** olup, işbu Sözleşme Bot ve ilgili sistemlerin kullanımını düzenler. Botu kullanarak, aşağıda belirtilen tüm şartları eksiksiz bir şekilde kabul etmiş sayılırsınız. Bu şartları kabul etmiyorsanız Botu kullanmamalısınız.
 
 ### 1. **Lisans ve Kullanım Şartları**
 - Bot, **fforcess (Mert)** tarafından geliştirilmiş olup, yalnızca yetkilendirilmiş sunucularda kullanılmak üzere lisanslanmıştır. Botun kopyalanması, dağıtılması, yeniden satılması veya değiştirilmesi yasaktır.
@@ -42,4 +42,4 @@ Bu Son Kullanıcı Lisans Sözleşmesi ("Sözleşme"), Kaizen Roleplay ve Kaizen
 - Bu Sözleşme, Botu kullanmaya başladığınız andan itibaren geçerlilik kazanır. Sunucu yönetimi veya geliştirici tarafından aksi belirtilmedikçe, Sözleşmenin tüm hükümleri yürürlükte kalır.
 - Kullanıcılar, Sözleşmenin herhangi bir maddesine aykırı hareket ettiklerinde, bu durum Bot ve ilgili sistemlere erişimin kalıcı olarak kaybına neden olabilir.
 
-**Bu Sözleşme, Kaizen Roleplay botunun ve ilgili sistemlerin güvenli ve düzenli bir şekilde kullanılmasını sağlamak amacıyla hazırlanmıştır. Kullanımınız boyunca bu şartlara ve sunucu yönetimi tarafından belirtilen ek kurallara tam uyum göstermeniz beklenmektedir.**  
+**Bu Sözleşme, Mergen Roleplay botunun ve ilgili sistemlerin güvenli ve düzenli bir şekilde kullanılmasını sağlamak amacıyla hazırlanmıştır. Kullanımınız boyunca bu şartlara ve sunucu yönetimi tarafından belirtilen ek kurallara tam uyum göstermeniz beklenmektedir.**  
