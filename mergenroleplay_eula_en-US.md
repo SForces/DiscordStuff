@@ -1,7 +1,7 @@
-**KAIZEN ROLEPLAY BOT END USER LICENSE AGREEMENT (EULA)**  
+**MERGEN ROLEPLAY BOT END USER LICENSE AGREEMENT (EULA)**  
 **Effective Date: January 4, 2025**
 
-This End User License Agreement ("Agreement") outlines the terms and conditions for the use of the Kaizen Roleplay and Kaizen Tickets bots ("Bot"). The Bot’s owner and developer is **fforcess (Mert)**, and this Agreement governs the use of the Bot and its associated systems. By using the Bot, you fully accept and agree to the terms set forth below. If you do not agree to these terms, you must not use the Bot.
+This End User License Agreement ("Agreement") outlines the terms and conditions for the use of the Mergen Roleplay and Mergen Tickets bots ("Bot"). The Bot’s owner and developer is **fforcess (Mert)**, and this Agreement governs the use of the Bot and its associated systems. By using the Bot, you fully accept and agree to the terms set forth below. If you do not agree to these terms, you must not use the Bot.
 
 ### 1. **License and Usage Terms**
 - The Bot is developed by **fforcess (Mert)** and is licensed exclusively for use on authorized servers. The Bot may not be copied, distributed, resold, or modified.
