@@ -6,8 +6,10 @@
 Bu Son Kullanıcı Lisans Sözleşmesi ("Sözleşme"), Mergen Roleplay ve Mergen Tickets botunun ("Bot") kullanımı için geçerli şartları ve koşulları tanımlar. Botun sahibi ve geliştiricisi **fforcess (Mert)** olup, işbu Sözleşme Bot ve ilgili sistemlerin kullanımını düzenler. Botu kullanarak, aşağıda belirtilen tüm şartları eksiksiz bir şekilde kabul etmiş sayılırsınız. Bu şartları kabul etmiyorsanız Botu kullanmamalısınız.
 
 ### 1. **Lisans ve Kullanım Şartları**
-- Bot, **fforcess (Mert)** tarafından geliştirilmiş olup, yalnızca yetkilendirilmiş sunucularda kullanılmak üzere lisanslanmıştır. Botun kopyalanması, dağıtılması, yeniden satılması veya değiştirilmesi yasaktır.
-- Botun veya sistemlerinin kullanımı, sunucu yönetiminin takdirine bağlıdır ve gerek cezai sebeplerle, gerekse herhangi bir gerekçe gösterilmeksizin önceden bildirim yapılmadan kısıtlanabilir ya da tamamen engellenebilir.
+- Bot, **fforcess (Mert)** tarafından geliştirilmiş olup, yalnızca yetkilendirilmiş sunucularda kullanılmak üzere lisanslanmıştır. Botun kopyalanması, dağıtılması, yeniden satılması veya değiştirilmesi yasaktır.  
+- Botun kullanım hakları, **Altayco** şirketine aittir ve botun veya sistemlerinin kullanımı, Altayco’nun belirlediği politikalar çerçevesinde, sunucu yönetiminin takdirine bağlı olarak sağlanmaktadır. Altayco, kullanıcıları yasaklama, erişim haklarını kısıtlama veya tamamen engelleme yetkisine sahiptir.  
+- Gerek cezai sebeplerle, gerekse herhangi bir gerekçe gösterilmeksizin botun erişimi önceden bildirim yapılmadan sınırlandırılabilir ya da tamamen durdurulabilir.  
+- **Copyright © 2025 Altayco.**  
 
 ### 2. **Veri Toplama ve Gizlilik**
 - Bot, kullanıcı etkileşimlerini ve verilerini yalnızca güvenlik ve sistem performansını artırma amacıyla toplar. Toplanan veriler hiçbir şekilde üçüncü taraflarla paylaşılmaz ve yetkisiz erişime karşı korunur.
