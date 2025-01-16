@@ -4,8 +4,9 @@
 This End User License Agreement ("Agreement") outlines the terms and conditions for the use of the Mergen Roleplay and Mergen Tickets bots ("Bot"). The Bot’s owner and developer is **fforcess (Mert)**, and this Agreement governs the use of the Bot and its associated systems. By using the Bot, you fully accept and agree to the terms set forth below. If you do not agree to these terms, you must not use the Bot.
 
 ### 1. **License and Usage Terms**
-- The Bot is developed by **fforcess (Mert)** and is licensed exclusively for use on authorized servers. The Bot may not be copied, distributed, resold, or modified.
-- The use of the Bot or its systems is at the discretion of the server management, and it may be restricted or completely blocked without prior notice, whether for disciplinary reasons or other unspecified reasons.
+- The Bot is developed by **fforcess (Mert)** and is licensed exclusively for use on authorized servers. The Bot may not be copied, distributed, resold, or modified.  
+- The usage rights of the Bot are owned by **Altayco**, the company associated with the server for which the Bot is designed. The use of the Bot or its systems is governed by Altayco’s policies and is at the discretion of server management. Altayco reserves the right to restrict, suspend, or completely block access to the Bot for any user, with or without prior notice, whether for disciplinary reasons or other unspecified causes.  
+- **Copyright © 2025 Altayco.**  
 
 ### 2. **Data Collection and Privacy**
 - The Bot collects user interactions and data solely for security and system performance improvement purposes. The collected data will never be shared with third parties and will be protected from unauthorized access.
