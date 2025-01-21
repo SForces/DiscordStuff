@@ -48,4 +48,4 @@
     Bu Gizlilik Politikası, periyodik olarak güncellenebilir. Botun kullanılmaya devam edilmesi, güncellenen politikayı kabul ettiğiniz anlamına gelir.  
 
 15. **İletişim Bilgileri**  
-    Bu politika ile ilgili sorularınız için [https://discord.gg/kaizenrp] discord adresinden bize ulaşabilirsiniz.  
+    Bu politika ile ilgili sorularınız için [https://discord.gg/mergenrp] discord adresinden bize ulaşabilirsiniz.  
