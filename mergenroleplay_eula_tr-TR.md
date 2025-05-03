@@ -7,8 +7,8 @@ Bu Son Kullanıcı Lisans Sözleşmesi ("Sözleşme"), Mergen Roleplay ve Mergen
 
 ### 1. **Lisans ve Kullanım Şartları**
 - Bot, **fforcess (Mert)** tarafından geliştirilmiş olup, yalnızca yetkilendirilmiş sunucularda kullanılmak üzere lisanslanmıştır. Botun kopyalanması, dağıtılması, yeniden satılması veya değiştirilmesi yasaktır.  
-- Botun kullanım hakları, **Altayco** şirketine aittir ve botun veya sistemlerinin kullanımı, Altayco’nun belirlediği politikalar çerçevesinde, sunucu yönetiminin takdirine bağlı olarak sağlanmaktadır. Altayco, kullanıcıları yasaklama, erişim haklarını kısıtlama veya tamamen engelleme yetkisine sahiptir.  
-- Gerek cezai sebeplerle, gerekse herhangi bir gerekçe gösterilmeksizin botun erişimi önceden bildirim yapılmadan sınırlandırılabilir ya da tamamen durdurulabilir.  
+- Botun kullanım hakları, **Altayco** şirketine aittir ve botun veya sistemlerinin kullanımı, Altayco’nun belirlediği politikalar çerçevesinde, sunucu yönetiminin takdirine bağlı olarak sağlanabilir. Altayco, kullanıcıları yasaklama, erişim haklarını kısıtlama veya tamamen engelleme yetkisine sahiptir.  
+- Gerek cezai sebeplerle, gerekse herhangi bir gerekçe gösterilmeksizin botun erişimi önceden bildirim yapılmadan belirli bir kişi veya kişilerin tümü için sınırlandırılabilir ya da tamamen durdurulabilir bu karar Altayco tarafından veya direkt olarak botun gerçek sahibi fforcess (Mert) tarafından istenildiği zaman istenilen kişi veya kişiler üzerinde yürürlüğe konabilir.  
 - **Copyright © 2025 Altayco.**  
 
 ### 2. **Veri Toplama ve Gizlilik**
