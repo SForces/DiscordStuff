@@ -5,7 +5,8 @@ This End User License Agreement ("Agreement") outlines the terms and conditions 
 
 ### 1. **License and Usage Terms**
 - The Bot is developed by **fforcess (Mert)** and is licensed exclusively for use on authorized servers. The Bot may not be copied, distributed, resold, or modified.  
-- The usage rights of the Bot are owned by **Altayco**, the company associated with the server for which the Bot is designed. The use of the Bot or its systems is governed by Altayco’s policies and is at the discretion of server management. Altayco reserves the right to restrict, suspend, or completely block access to the Bot for any user, with or without prior notice, whether for disciplinary reasons or other unspecified causes.  
+- The usage rights of the Bot are owned by **Altayco**, the company associated with the server for which the Bot is designed. The use of the Bot or its systems is governed by Altayco’s policies and is at the discretion of server management. Altayco reserves the right to restrict, suspend, or completely block access to the Bot for any user, with or without prior notice, whether for disciplinary reasons or other unspecified causes.
+- Whether for disciplinary reasons or without providing any justification, the bot’s access may be restricted or completely terminated for any individual or group of individuals without prior notice. This decision can be enforced at any time and on any person or group as requested by Altayco or directly by the bot’s rightful owner, fforcess (Mert).
 - **Copyright © 2025 Altayco.**  
 
 ### 2. **Data Collection and Privacy**
