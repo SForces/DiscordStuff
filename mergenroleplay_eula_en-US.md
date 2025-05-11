@@ -1,45 +1,112 @@
-**MERGEN ROLEPLAY BOT END USER LICENSE AGREEMENT (EULA)**  
-**Effective Date: January 4, 2025**
+## **MERGEN ROLEPLAY BOT END USER LICENSE AGREEMENT (EULA)**
 
-This End User License Agreement ("Agreement") outlines the terms and conditions for the use of the Mergen Roleplay and Mergen Tickets bots ("Bot"). The Bot’s owner and developer is **fforcess (Mert)**, and this Agreement governs the use of the Bot and its associated systems. By using the Bot, you fully accept and agree to the terms set forth below. If you do not agree to these terms, you must not use the Bot.
+* **Effective Date:** January 4, 2025
+* **Last Revised:** May 11, 2025
 
-### 1. **License and Usage Terms**
-- The Bot is developed by **fforcess (Mert)** and is licensed exclusively for use on authorized servers. The Bot may not be copied, distributed, resold, or modified.  
-- The usage rights of the Bot are owned by **Altayco**, the company associated with the server for which the Bot is designed. The use of the Bot or its systems is governed by Altayco’s policies and is at the discretion of server management. Altayco reserves the right to restrict, suspend, or completely block access to the Bot for any user, with or without prior notice, whether for disciplinary reasons or other unspecified causes.
-- Whether for disciplinary reasons or without providing any justification, the bot’s access may be restricted or completely terminated for any individual or group of individuals without prior notice. This decision can be enforced at any time and on any person or group as requested by Altayco or directly by the bot’s rightful owner, fforcess (Mert).
-- **Copyright © 2025 Altayco.**  
+This End User License Agreement ("Agreement") sets forth the terms and conditions applicable to the use of the Mergen Roleplay bots ("Bot"). The developer and **sole legal owner** of the Bot is **fforcess (Mert)**. This agreement defines the rights, obligations, and restrictions in effect during the use of the Bot.
 
-### 2. **Data Collection and Privacy**
-- The Bot collects user interactions and data solely for security and system performance improvement purposes. The collected data will never be shared with third parties and will be protected from unauthorized access.
-- The collection of user data will be done in compliance with applicable data protection laws. Users have the right to request the deletion of their personal data.
+By using the Bot, you agree to these terms. If you do not agree to the terms, you must not use the Bot.
 
-### 3. **Responsibility and Warnings**
-- You must comply with system rules and server policies when using the Bot. Actions contrary to these rules may lead to penalties imposed by the server management and/or result in temporary or permanent loss of access to the Bot and related systems.
-- It is strictly prohibited to exploit any vulnerabilities in the Bot. Such actions may lead to being unable to use the Bot and may initiate legal proceedings if necessary.
-- Instead of exploiting vulnerabilities, if you report them to the developer through the support channel, **you will be rewarded**.
-- The services provided by the Bot are offered "as is," and the developer does not accept responsibility for any errors, interruptions, or data loss.
+---
 
-### 4. **Usage Restrictions**
-- The Bot may not be used for purposes other than those intended. In particular:
-  - Searching for commands that could harm the system.
-  - Engaging in any behavior that could interfere with the system’s operation.
-  - Misusing the Bot’s features in violation of server rules.
-- Such actions may lead to penalties within the server and may result in permanent loss of access to the Bot and related services.
+### 1. **Definitions**
 
-### 5. **Developer Rights**
-- The developer reserves the right to change any terms of this Agreement without prior notice. Changes to the terms will be announced through the Bot, and it is the users' responsibility to stay informed.
-- The developer reserves the right to discontinue or restrict the use of the Bot at any time. This may be done without prior notice.
+**Bot:** In this agreement, the term "Bot" refers to all software systems listed below and any similar systems:
 
-### 6. **User Obligations**
-- All services provided by the Bot must be used in accordance with their intended purpose and in an honest manner.
-- No feature of the Bot may be misused. Any misuse of the Bot or system will result in penalties within the server and may lead to loss of access to the Bot and related systems.
-- Users may not sabotage the Bot’s operations, inspect its code, or attempt to search for vulnerabilities.
+* **! Mergen Roleplay**
+* **! Mergen Roleplay Tickets**
+* **Mergen Roleplay - Mesai**
+* **Mergen Roleplay Tickets**
 
-### 7. **Legal Disputes**
-- This Agreement is governed by the laws of the Republic of Turkey. In the event of any legal disputes, **Izmir** courts and enforcement offices shall have jurisdiction.
+These bots are developed by fforcess (Mert) and are fully subject to the provisions of this agreement.
+Any future systems developed by the developer shall also fall under the scope of this agreement.
 
-### 8. **Final Provisions**
-- This Agreement comes into effect as soon as you begin using the Bot. Unless otherwise specified by server management or the developer, all terms of the Agreement will remain in effect.
-- If users violate any provision of this Agreement, it may result in permanent loss of access to the Bot and related systems.
+* **User:** The individual who adds, manages, or uses the Bot in a Discord server.
+* **Developer:** The individual who holds all rights and ownership of the bots, responsible for maintenance, development, and management — **fforcess (Mert)**.
+* **Altayco:** A business partner who holds **no ownership** of the bot and is granted limited administrative powers solely by the developer. Altayco may carry out certain limited administrative or punitive actions but has no legal claim to the bots.
 
-**This Agreement has been drafted to ensure the safe and orderly use of the Kaizen Roleplay bot and its related systems. Throughout your use, you are expected to fully comply with these terms and any additional rules specified by server management.**
+---
+
+### 2. **License and Usage Rights**
+
+* The Bot may only be used on servers authorized by the developer.
+* Unauthorized copying, reproduction, redistribution, resale, or modification of the Bot's files, source code, or functionality is strictly prohibited.
+* The usage license is **revocable** and may be terminated **entirely at the discretion of the developer (fforcess)** at any time.
+
+---
+
+### 3. **Role and Responsibilities of Altayco**
+
+* Altayco may perform certain administrative tasks with the developer's approval. For example: restricting some users from using specific commands or enforcing punitive actions within the system.
+* **Altayco is not the owner of the bot** and cannot claim any property rights over it.
+* All permissions granted to Altayco are defined and may be revoked at any time by the developer.
+* Copyright © 2025 Altayco
+
+---
+
+### 4. **Data Collection and Privacy**
+
+* The Bot may collect certain basic data (user ID, command usage, timestamp) for security and system improvement purposes.
+* Collected data is not shared with third parties and is stored in accordance with applicable legal regulations.
+* Users may request data deletion via support channels. However, such a request implies deletion of data across all servers managed by Altayco or linked to the bot, which may result in the loss of access to those servers. Users must be aware of this consequence.
+
+---
+
+### 5. **Usage Restrictions**
+
+* The Bot must only be used in accordance with its intended purpose and the rules of the server.
+
+* The following actions are prohibited:
+
+  * Attempting reverse engineering or accessing the source code.
+  * Interfering with the operation of the bot.
+  * Exploiting system vulnerabilities.
+
+* Such actions may result in permanent removal from the system and may be subject to legal action.
+
+---
+
+### 6. **Developer's Rights**
+
+* **The developer (fforcess), as the sole and final owner of the bot, reserves the right to:**
+
+  * Suspend access to the bot for any user, group of users, or all users, either temporarily or permanently,
+  * Shut down the entire bot system,
+  * Make changes to the system,
+  * Revoke all usage rights.
+
+* These decisions are at the sole discretion of the developer and may be enforced without prior notice.
+
+---
+
+### 7. **Disclaimer of Liability**
+
+* The Bot is provided "as is." The developer shall not be held liable for any errors, interruptions, or data losses.
+* Any damage or losses incurred during use are the sole responsibility of the user.
+
+---
+
+### 8. **Security Vulnerabilities and Reward Policy**
+
+* Users who identify and exploit vulnerabilities may face both internal and external sanctions.
+* Users who report identified vulnerabilities to the developer may be rewarded or acknowledged accordingly.
+
+---
+
+### 9. **Legal Disputes**
+
+* This agreement is governed by the **Laws of the Republic of Türkiye**.
+* In the event of any dispute, the **Courts and Enforcement Offices of İzmir** shall have exclusive jurisdiction.
+
+---
+
+### 10. **Validity and Modifications**
+
+* This agreement takes effect upon first use of the Bot.
+* The developer reserves the right to amend the agreement at any time. Changes will be announced via the bot or support channels.
+
+---
+
+**All rights reserved.**
+
+For support and contact: Reach out via the official Altayco Discord server at `https://discord.gg/mergenrp`.
