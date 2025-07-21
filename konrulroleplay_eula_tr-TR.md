@@ -20,7 +20,7 @@ Geliştirici tarafından sonradan eklenecek tüm sistem ve işlevler de bu kapsa
 
 ### 1. **Tanımlar**
 
-* **Bot:** Konrul Roleplay adlı sistem ve tüm bağlı modüller (örn. Konrul Tickets, Konrul Mesai) dahil olmak üzere geliştirici tarafından sağlanan tüm yazılımlar.
+* **Bot:** Konrul Roleplay adlı sistem ve tüm bağlı modüller dahil olmak üzere geliştirici tarafından sağlanan tüm yazılımlar.
 * **Kullanıcı:** Botu bir sunucuya ekleyen, yöneten veya kullanan gerçek kişiler.
 * **Geliştirici:** Botun tüm kod ve sistemsel haklarına sahip olan kişi: **fforcess (Mert)**.
 * **Altayco:** Botun sahibi olmayan ancak geliştirici tarafından belirli yönetimsel yetkilerle donatılmış iş ortağı.
