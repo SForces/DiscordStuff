@@ -20,7 +20,7 @@ All systems and functionalities that may be added later by the developer are als
 
 ### 1. **Definitions**
 
-* **Bot:** All software provided by the developer, including the Konrul Roleplay system and all connected modules (e.g., Konrul Tickets, Konrul Mesai).
+* **Bot:** All software provided by the developer, including the Konrul Roleplay system and all connected modules (e.g. bots).
 * **User:** Real persons who add, manage, or use the bot in a server.
 * **Developer:** The person who owns all rights to the code and systems of the bot: **fforcess (Mert)**.
 * **Altayco:** A business partner not owning the bot but granted certain administrative authorities by the developer.
