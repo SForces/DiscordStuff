@@ -25,7 +25,11 @@ Bu sözleşme, Mergen Roleplay ve bağlı sistemlerinin ("Bot") kullanım kurall
 ## 4. VERİ GİZLİLİĞİ VE VERİTABANI YÖNETİMİ
 * **4.1. Veri Toplama:** Bot; güvenliği sağlamak, hileleri engellemek ve sistem kalitesini artırmak için bazı temel bilgilerinizi (Kullanıcı ID, komut geçmişi, oyun içi veriler) işler. 
 * **4.2. Verilerin Sahipliği:** Toplanan tüm kayıtlar ve veritabanı (database) **Altayco sistemlerinde barındırılır**. Bu nedenle verilerin saklanması, işlenmesi veya gelecekte ne olacağı tamamen **Altayco'nun yetkisi ve kararı altındadır.**
-* **4.3. Veri Silme:** Verilerinizin silinmesini talep edebilirsiniz. Ancak bu işlem onaylanırsa; botun aktif olduğu tüm sunuculardaki paralarınız, eşyalarınız ve karakter kayıtlarınız kalıcı olarak yok olur. 
+* **4.3. Veri Silme:**
+Verilerinizin silinmesini talep edebilirsiniz. Ancak bu işlem onaylanırsa; botun aktif olduğu tüm sunuculardaki paralarınız, eşyalarınız ve karakter kayıtlarınız kalıcı olarak yok edilir ve geri alınamaz.
+
+*Yasal yükümlülükler ve olası hukuki süreçler nedeniyle, silme talebi sonrasında veriler aktif sistemlerde görünmese ve hiçbir kullanıcıyla paylaşılmasa dahi belirli bir süre boyunca güvenli şekilde arşivlenmiş olarak veritabanında saklanabilir. Bu süre sonunda veriler kalıcı olarak silinir.*
+
 * **4.4.** Toplanan bilgiler, yasal bir zorunluluk (polis, savcılık veya mahkeme talebi) olmadığı sürece dışarıdan hiçbir şahısla paylaşılmaz.
 
 ## 5. SORUMLULUK REDDİ
