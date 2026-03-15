@@ -36,8 +36,4 @@
 * **3.2. Dijital İz Takibi:** Mergen Bot sistemleri, yetkililerin kullandığı her komutu zaman damgası (timestamp), işlem ID'si ve gerekli durumlarda IP/Donanım logları ile şifreli olarak kayıt altına alır.
 * **3.3. Hukuki Rücu:** Sisteme veya sunucu topluluğuna kasten verilen zararlarda, Geliştirici'nin veya Sunucu Sahiplerinin uğradığı maddi/manevi zararlar ile itibar kaybı, zararı veren yetkiliden hukuki yollarla tazmin edilir. Eylemin boyutuna göre doğrudan **İzmir Cumhuriyet Başsavcılığı'na** suç duyurusunda bulunma hakkı saklıdır.
 
-## 4. BİLDİRİM VE YÜRÜRLÜK
-* **4.1.** Geliştirici, yetkilinin işlemlerini şüpheli bulması halinde hiçbir kanıt sunma zorunluluğu olmaksızın yetkileri tek taraflı olarak askıya alabilir veya iptal edebilir.
-* **4.2.** Bu sözleşme, yetkiliye bot üzerinde ilk rol/izin tanımlandığı saniye yürürlüğe girer ve yetki alınsa dahi geçmişe dönük sorumluluklar devam eder.
-
 **İhtilaf Mercii:** İzmir Mahkemeleri ve İcra Daireleri
