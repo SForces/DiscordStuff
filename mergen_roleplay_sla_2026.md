@@ -28,12 +28,11 @@
 ## 4. GEÇERLİLİK VE BİLDİRİM
 * **4.1.** Geliştirici, işlemlerinizi şüpheli bulursa kimseye bir kanıt veya açıklama sunmak zorunda kalmadan yetkilerinizi anında dondurabilir veya elinizden alabilir.
 * **4.2.** Bu sözleşme, size Discord'da "Yetkili" rolü verildiği saniye başlar. İleride yetkiniz alınsa bile, geçmişte yaptığınız işlemlerden dolayı yasal sorumluluğunuz devam eder.
-
-* **2.4. Maddi ve Manevi Tazminat (Rücu Hakkı):** Sızdırılan bilgilerin Mergen Roleplay ekosistemine, Geliştirici'ye veya Altayco markasına itibar kaybettirmesi, oyuncu düşüşüne yol açması veya rakip sunuculara haksız avantaj sağlaması durumunda; uğranılan tüm maddi zararlar hesaplanarak ihlali gerçekleştiren şahsa (yaşı küçükse yasal velisine) **Tazminat Davası** açılacaktır.
+* **4.3. Maddi ve Manevi Tazminat (Rücu Hakkı):** Sızdırılan bilgilerin Mergen Roleplay ekosistemine, Geliştirici'ye veya Altayco markasına itibar kaybettirmesi, oyuncu düşüşüne yol açması veya rakip sunuculara haksız avantaj sağlaması durumunda; uğranılan tüm maddi zararlar hesaplanarak ihlali gerçekleştiren şahsa (yaşı küçükse yasal velisine) **Tazminat Davası** açılacaktır.
   
 ## 5. CEZAİ YAPTIRIMLAR VE ADLİ SÜREÇ
-* **3.1. Global Kara Liste (Blacklist):** Bu sözleşmeyi ihlal eden yetkili, fforcess (Mert) tarafından geliştirilen ve yönetilen mevcut ve gelecekteki **tüm sistemlerden sınırsız olarak** uzaklaştırılır.
-* **3.2. Dijital İz Takibi:** Mergen Bot sistemleri, yetkililerin kullandığı her komutu zaman damgası (timestamp), işlem ID'si ve gerekli durumlarda IP/Donanım logları ile şifreli olarak kayıt altına alır.
-* **3.3. Hukuki Rücu:** Sisteme veya sunucu topluluğuna kasten verilen zararlarda, Geliştirici'nin veya Sunucu Sahiplerinin uğradığı maddi/manevi zararlar ile itibar kaybı, zararı veren yetkiliden hukuki yollarla tazmin edilir. Eylemin boyutuna göre doğrudan **İzmir Cumhuriyet Başsavcılığı'na** suç duyurusunda bulunma hakkı saklıdır.
+* **5.1. Global Kara Liste (Blacklist):** Bu sözleşmeyi ihlal eden yetkili, fforcess (Mert) tarafından geliştirilen ve yönetilen mevcut ve gelecekteki **tüm sistemlerden sınırsız olarak** uzaklaştırılır.
+* **5.2. Dijital İz Takibi:** Mergen Bot sistemleri, yetkililerin kullandığı her komutu zaman damgası (timestamp), işlem ID'si ve gerekli durumlarda IP/Donanım logları ile şifreli olarak kayıt altına alır.
+* **5.3. Hukuki Rücu:** Sisteme veya sunucu topluluğuna kasten verilen zararlarda, Geliştirici'nin veya Sunucu Sahiplerinin uğradığı maddi/manevi zararlar ile itibar kaybı, zararı veren yetkiliden hukuki yollarla tazmin edilir. Eylemin boyutuna göre doğrudan **İzmir Cumhuriyet Başsavcılığı'na** suç duyurusunda bulunma hakkı saklıdır.
 
 **İhtilaf Mercii:** İzmir Mahkemeleri ve İcra Daireleri
