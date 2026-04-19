@@ -1,10 +1,6 @@
 
 # ⚖️ Mergen Roleplay - Adalet, Güven Skoru ve Yaptırım Sistemi (V2.0)
 
-Mergen Roleplay geliştirici ve yönetim ekibi; sunucumuzun ceza, takip ve ödül altyapısı baştan aşağı yenilenerek tamamen **otonom bir Yapay Zeka Yargıcına** devredilmiştir. Bu doküman, yeni sistemin yeteneklerini tanıtmak ve QA (Test) ekibinin sistemi denerken dikkat etmesi gereken **Edge Case (Sınır/İstisna Durumları)** senaryolarını listelemek amacıyla hazırlanmıştır.
-
----
-
 ## 📖 1. Sisteme Genel Bakış
 
 Yeni sistem, oyuncuları sunucudan banlayıp uzaklaştırmak yerine **"Oyun İçi Süründürme" (Tematik Kısıtlamalar)** ve **"Güven Skoru" (Trust Factor)** üzerine kuruludur.
