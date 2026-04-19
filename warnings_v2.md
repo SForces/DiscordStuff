@@ -74,7 +74,7 @@ Test ekibinin sistemi kırmak için aşağıdaki ekstrem (Edge Case) senaryolar�
 
 
 ---
-**Geliştirici Notu:** Loglardaki `Event Loop Blocking` sorununu aşmak için veritabanı başlangıç RAM yüklemesi son 1.5 gün ile sınırlandırılmıştır. Sistemi yormamak adına aylık periyotlarla `node db_temizlik.js` komutunu kullanarak eski logları SQLite üzerinden silebilirsiniz.
+**Geliştirici Notu:** Loglardaki `Event Loop Blocking` sorununu aşmak için veritabanı başlangıç RAM yüklemesi son 1.5 gün ile sınırlandırılmıştır.
 
-*Başarılar ve Kolay Gelsin,*
-**Mergen Roleplay Sistem Yönetimi**
+*Başarılar ve Kolay Gelsin,*<br>
+**fforcess**
